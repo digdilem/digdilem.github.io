@@ -18,7 +18,12 @@ navbar-links:
   Projects:
     - Redneck Water Cooling : "cooling"
     - Restoring Land Rovers: "landies"
-#  Computer Skill: "cv_skills.md"
+  Software: 
+    - All projects: "https://github.com/digdilem"
+    - My Text Adventures: "https://github.com/digdilem/textadventures"
+    - My IRC Scripts: "https://github.com/digdilem/irc-scripts"
+    - My Fidonet Software (obsolete): "https://github.com/digdilem/fidonet"
+    - IP Camera Database (obsolete): "https://github.com/digdilem/ipcamera-database"
 
 # --- Logo --- #
 
@@ -41,7 +46,7 @@ round-avatar: true
 social-network-links:
   email: "digdilem@gmail.com"
   #facebook: deanattali
-  github: daattali
+  github: digdilem
   #twitter: daattali
 #  patreon: DeanAttali
   #youtube: c/daattali
