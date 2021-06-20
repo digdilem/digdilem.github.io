@@ -17,5 +17,5 @@ About me:
 - Fidonet: I ran 2:255/90 for many years – a Fidonet bulletin board, eventually progressing to being RC25 and organising the UK’s Fidonet distribution and international links over modem and later ISDN links, eventually giving up around 2002 as the Internet provided better alternatives. (My Fidonet Software)
 - Hobbies: Motorcycling, Walking, Geocaching, Cycling (Common theme: Exploring, learning)
 ![Geocaching](https://img.geocaching.com/stats/img.aspx?txt=View+my+profile&uid=62092a46-f14b-42e0-a53b-7ec27b935945)
-- Employment: Labouring then forestry to start with. Then IT Support for a local internet company. Then worked for an Equine charity.
+- Employment: Labouring then forestry to start with. Then IT Support for a local internet company. Then worked for an Equine charity. Since 2019 I work for an Exeter company being a Linux Sysadmin and DataBase Administrator specialising in MariaDb.
  
