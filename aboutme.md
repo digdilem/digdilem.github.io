@@ -14,5 +14,6 @@ About me:
 - Programming: BASIC, Quill, Adlan, TADS three psuedo-langauges for Adventure writing), Turbo-C, Perl, Bash, PHP and recently Bootstrap. I enjoy the problem solving and logical procedural aspects of coding and since the late 90s have written, improved and maintained a large Perl/MySql Equine management web application for a charity.
 - Fidonet: I ran 2:255/90 for many years – a Fidonet bulletin board, eventually progressing to being RC25 and organising the UK’s Fidonet distribution and international links over modem and later ISDN links, eventually giving up around 2002 as the Internet provided better alternatives. (My Fidonet Software)
 - Hobbies: Motorcycling, Walking, Geocaching, Cycling (Common theme: Exploring, learning)
+![Geocaching](https://img.geocaching.com/stats/img.aspx?txt=View+my+profile&uid=62092a46-f14b-42e0-a53b-7ec27b935945)
 - Employment: Labouring then forestry to start with. Then IT Support for a local internet company. Then worked for an Equine charity.
  
