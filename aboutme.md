@@ -1,12 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Who's this idiot?
+subtitle: Who's this guy?
 ---
 
-“Simon Avery, oh yeah, he’s just another middle-aged geek.”
+“Just another middle-aged geek.”
 
-A place for me to put stuff I’ve done for others to use. 
+The name "Digital Dilemma" was born in the early 1990s when I started running my first dialup BBS. This evolved into becoming the primary Fidonet mail hub for the UK (R:2:25/)  I've kind of stuck with it, even though the BBS has been gone since around 2005
+
 
 Nerd Bio:
 
