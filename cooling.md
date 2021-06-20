@@ -36,9 +36,10 @@ To explain this:  The black plastic tank is the "header", containing water to fi
 
 Then water flows IN to the red central heating pump. Having the air vent before this allows much of the air to escape before hitting the pump. This causes about the only noise this system creates and lowers efficiency of the pumping, since the bubbles act as little pressure-absorbers. Handbooks will tell you about cavitation risk here, which might damage the impeller, but I consider this risk very small given the speed and low temperature of this water. But it's still good to avoid anyway.
 
-Then water leaves the pump and into the radiator. Both inlet and outlet of this rad is on the bottom, so some air will collect at the top and can be bled away with a normal radiator key. (Once running for a while, the water loses its air content and no further bleeding will be needed until you introduce fresh water - just like a wet central heating system)
+After the pump, the water would go to the "Cold" side of the 15mm copper manifold (not shown here), and after passing through the heatsinks, would go ito the "Hot" manifold which then led to the Radiator.
 
-After the radiator, the water would go to the "Cold" side of the 15mm copper manifold (not shown here), and after passing through the heatsinks, would return to the "Hot" manifold, then back to the start of this loop.
+Both inlet and outlet of this rad is on the bottom, so some air will collect at the top and can be bled away with a normal radiator key. (Once running for a while, the water loses its air content and no further bleeding will be needed until you introduce fresh water - just like a wet central heating system)
+
 
 ![DSCF1135](https://user-images.githubusercontent.com/4052275/122676776-60f86f00-d1d7-11eb-8eec-564feca6baf2.jpg)
 
