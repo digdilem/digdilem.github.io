@@ -17,8 +17,8 @@ navbar-links:
   About Me: "aboutme"
   Projects:
     - Redneck Water Cooling : "cooling"
-    - Restoring Land Rovers: "#"
-  Computer Skill: "cv_skills.md"
+    - Restoring Land Rovers: "landies"
+#  Computer Skill: "cv_skills.md"
 
 # --- Logo --- #
 
