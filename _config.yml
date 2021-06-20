@@ -16,7 +16,7 @@ author: Simon Avery
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - Redneck Water Cooling : "cooling.html"
+    - Redneck Water Cooling : "cooling"
     - Restoring Land Rovers: "#"
   Computer Skill: "cv_skills.md"
 
