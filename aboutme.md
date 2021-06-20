@@ -4,6 +4,8 @@ title: About me
 subtitle: Who's this guy?
 ---
 
+Simon Avery = digdilem = dartymoor = Flash
+
 “Just another middle-aged geek.”
 
 The name "Digital Dilemma" was born in the early 1990s when I started running my first dialup BBS. This evolved into becoming the primary Fidonet mail hub for the UK (R:2:25/)  I've kind of stuck with it, even though the BBS has been gone since around 2005
